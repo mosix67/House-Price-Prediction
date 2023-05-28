@@ -1,0 +1,2 @@
+# House-Price-Prediction
+This code for this report presents an analysis of a house price prediction model developed for an Estate Agents. The model aims to assist the estate agents in making informed decisions and providing more accurate price estimates to its clients looking to buy or sell properties. The model uses a Random Forest Regression algorithm and has been evaluated using various metrics, including feature importance, R-squared score, mean absolute error and data visualization techniques. 
